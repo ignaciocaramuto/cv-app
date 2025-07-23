@@ -1,0 +1,49 @@
+[
+  {
+    "sectionTitle": "Work Experience",
+    "entries": [
+      {
+        "title": "Frontend Developer",
+        "year": "2022-2025",
+        "items": [
+          "Built reusable UI components",
+          "Led migration to TypeScript"
+        ]
+      },
+      {
+        "title": "Backend Developer",
+        "year": "2020-2022",
+        "items": [
+          "Designed REST APIs",
+          "Implemented authentication"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionTitle": "University Experience",
+    "entries": [
+      {
+        "title": "BSc Computer Science",
+        "year": "2018-2022",
+        "items": [
+          "Graduated with honors",
+          "President of Coding Club"
+        ]
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Additional Skills",
+    "entries": [
+      {
+        "title": "Languages",
+        "year": "",
+        "items": [
+          "English (fluent)",
+          "Spanish (native)"
+        ]
+      }
+    ]
+  }
+]
