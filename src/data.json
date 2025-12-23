@@ -1,47 +1,65 @@
 [
   {
-    "sectionTitle": "Work Experience",
+    "title": "Work Experience",
     "entries": [
       {
-        "title": "Frontend Developer",
-        "year": "2022-2025",
+        "company": "Iteriam",
+        "location": "Madrid, ESP",
+        "job": "FullStack Developer",
+        "year": "2024-current",
         "items": [
-          "Built reusable UI components",
-          "Led migration to TypeScript"
+          "Focused on improving data traceability and integrity in communications throughout the claims process.",
+          "Collaboration with the team using agile methodologies to deliver features and improvements iteratively.",
+          "Active involvement in an architectural migration from multiple independent microservices to a simplified structure with a single central microservice and a BFF.",
+          "Use of OpenAPI to describe the API in a fast and standardized way."
         ]
       },
       {
-        "title": "Backend Developer",
-        "year": "2020-2022",
+        "company": "Cargo Produce",
+        "location": "Austin, USA",
+        "job": "FullStack Developer",
+        "year": "2023-2024",
         "items": [
-          "Designed REST APIs",
-          "Implemented authentication"
+          "Designed and implemented a module to automate the calculation of carbon footprint for container journeys upon arrival at their destination.",
+          "Collaborated with a team of 9 developers, following Agile methodologies with Jira for task management.",
+          "Utilized PostgreSQL with DBeaver for database management, including modifying and updating stored procedures in PL/SQL.",
+          "Analyzed user stories, provided time estimates, and reviewed code in pull requests to ensure quality and adherence to best practices."
+        ]
+      },
+      {
+        "company": "Ingenea SRL",
+        "location": "Rosario, ARG",
+        "job": "FullStack Developer",
+        "year": "2021-2023",
+        "items": [
+          "Builded a dashboard for customer’s projects displaying various types of charts, alerts, summaries, and project information using Angular and .NET.",
+          "Created a web application that also displays information about customer’s contracts with different indicators such as charts, alerts and spent budgets.",
+          "Participated in the development of an application for track and trace trucks via GPS using Google Maps API."
         ]
       }
     ]
   },
   {
-    "sectionTitle": "University Experience",
+    "title": "Education",
     "entries": [
       {
-        "title": "BSc Computer Science",
-        "year": "2018-2022",
+        "job": "Systems of Information Engineering",
+        "year": "2017-2024",
         "items": [
-          "Graduated with honors",
-          "President of Coding Club"
+          "For the final project I designed and developed a web platform with Angular and Express that connects musicians and bands.",
+          "Overall average: 7.68"
         ]
       }
     ]
   },
   {
-    "sectionTitle": "Additional Skills",
+    "title": "Additional Skills",
     "entries": [
       {
-        "title": "Languages",
-        "year": "",
         "items": [
-          "English (fluent)",
-          "Spanish (native)"
+          "Technical Skills: Angular, .NET, Entity Framework, Typescript, Javascript, C#, Git, SQL, HTML, CSS, Scrum, Kanban, Jira, Astro, Express, NodeJS, React, Java, Spring Boot.",
+          "Languages: Fluent in Spanish (native), Conversational in English.",
+          "Certifications: First Certificate in English Level B2 - FullStack Open course from Helsinki University"
         ]
       }
     ]

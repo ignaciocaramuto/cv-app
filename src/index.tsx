@@ -3,6 +3,7 @@ import index from "./index.html";
 import data from "./data.json";
 
 const server = serve({
+	port: 3000,
 	routes: {
 		"/api/cv": () =>
 			new Response(JSON.stringify(data), {
